@@ -1,1 +1,1 @@
-const app='IAC_STATIC_COMBINED ';
+const app='IAC_ONLY';
