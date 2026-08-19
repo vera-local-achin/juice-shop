@@ -1,1 +1,1 @@
-const app='adsfa';
+const app='IAC_STATIC_COMBINED';
