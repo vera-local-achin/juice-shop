@@ -1,1 +1,1 @@
-const app='remove_policy_from_veracode.yml';
+const app='INCORRECT_POLICY_NAME';
