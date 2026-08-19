@@ -1,1 +1,1 @@
-const app='IAC_ONLY';
+const app='NO_IAC_RULE';
