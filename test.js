@@ -1,1 +1,1 @@
-const app='NO_IAC_RULE';
+const app='remove_policy_from_veracode.yml';
