@@ -1,1 +1,1 @@
-const app='INCORRECT_POLICY_NAME';
+const app='IAC_STATIC_COMBINED';
