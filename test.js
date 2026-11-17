@@ -1,1 +1,1 @@
-const app='SCA_4';
+const app='SAST';
