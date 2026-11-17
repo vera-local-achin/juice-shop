@@ -1,1 +1,2 @@
-const app='SAST';
+const app='pipeline_scan';
+
