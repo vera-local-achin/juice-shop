@@ -1,2 +1,2 @@
-const app='pipeline_scan_1';
+const app='pipeline_scan_2';
 
